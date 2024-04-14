@@ -1,7 +1,7 @@
 hi, i am jan Ewan / Aedan
 this account is used to place all my coding projects and other computer science things.
+i am aro/ace
 pronouns : any
-aro/ace
 currently, i have a few projects in mind
 1) SSEF ai project (contributor)
 2) game design project (lead)
