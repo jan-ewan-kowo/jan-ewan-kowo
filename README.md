@@ -1,4 +1,4 @@
-hi, i am jan Ewan / Aedan
+hi, aedan here
 this account is used to place all my coding projects and other computer science things.
 i am aro/ace
 pronouns : any
